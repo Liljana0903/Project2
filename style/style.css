@@ -15,6 +15,13 @@ body{
 
 .header{
     margin: 13px auto 15px;
+    
+}
+
+.header_logo{
+padding-left: 95px;
+padding-top: 21px;
+padding-bottom: 23px;
 }
 
 .header_ul{
@@ -38,6 +45,7 @@ body{
     font-size: 14px;
     line-height: 14px;
     color: #FFFFFF;
+    margin-right: 95px;
 }
 
 .button:hover{
@@ -49,6 +57,8 @@ body{
 .main{
     background:#F6BED9;
     padding: 58px 0 59px;
+    padding-right: 95px;
+    padding-left: 95px;
 }
 
 .main_title{
@@ -105,11 +115,13 @@ body{
     line-height: 45px;
     color: #1C1C1C;
     max-width: 415px;
+    margin-left: 95px;
 }
 
 .grow_flex{
     display: flex;
     gap: 34px;
+    margin-right: 95px;
 }
 
 .grow_element{
@@ -139,6 +151,8 @@ body{
 
 .commerse{
     margin-bottom: 136px;
+    margin-right: 95px;
+    margin-left: 95px;
     text-align: center;
 }
 
@@ -170,6 +184,7 @@ body{
 .footer_ul{
     display: flex;
     gap: 74px;
+    margin-left: 95px;
 }
 
 .footer_link{
